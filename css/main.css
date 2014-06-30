@@ -1,0 +1,28 @@
+@font-face {
+    font-family: amplify12;
+    src: url("..\fonts\amplify.ttf");
+}
+
+.logo{
+    font-family: 'Lobster', cursive;
+    font-size: 27px;
+}
+.social {text-align: center}
+.logo:hover{background-color: #008cba;}
+
+.slider { margin: 20px auto;}
+
+.orbit img{width: 100%;}
+
+.orbit a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.site_nav {text-align:center;  font-family: helvetica;}
+.letter:hover,.pencil:hover,.box:hover{padding-bottom: 15px; margin-top: -15px; height: 120px;}
+.features{font-style: italic}
+.features img{width: 100%; margin-top: 25%;}
+.bord{margin: 60px auto;padding: 100px; background-image: url("../img/pat.jpg"); background-repeat: repeat; width: 100%;
+    -webkit-box-shadow: 0px 6px 10px 0px rgba(41, 50, 50, 0.91);
+    -moz-box-shadow:    0px 6px 10px 0px rgba(41, 50, 50, 0.91);
+    box-shadow:         0px 6px 10px 0px rgba(41, 50, 50, 0.91);}
